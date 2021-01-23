@@ -8,6 +8,7 @@ Ceci est un soft de chiffrement de texte encodés en UTF8 (par defaut dans le bl
   -suivre les instructions
 Petite Histoire du Nom des versions
 COSBITM = "bonjour" chiffré dans sa premiere version ne comprenant que 26 caractères avec la clée "azertyuiop". Le numéro correspond aux nombre de caractère disponibles.
+               Nom de V   Nom de code de V
 1ere version : COSBITM26 (cosbitm)
 2eme version : COSBITM58 (cIsèCNG)
 3eme version : COSBITM85 (cJsèDOH)
