@@ -2,7 +2,7 @@
 """
 Created on Wed Jan 13 12:43:49 2021
 
-@author: Elève
+@author: novasup666
 """
 
 import math as mt
@@ -139,33 +139,3 @@ elif choice==2 :
     OutFichier.write(conv(decrypte))
 
 OutFichier.close()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
