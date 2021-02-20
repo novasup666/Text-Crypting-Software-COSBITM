@@ -1,12 +1,12 @@
 # Text-Crypting-Software-COSBITM
 /!\ Python 3.9 recommandé Python 3.0 minimum (fstrings)
 Ceci est un soft de chiffrement de texte encodés en UTF8 (par defaut dans le bloc-note Win10), inspiré du chiffrement de Vigenere, en python, suis ouvert à toute proposition d'améliorations
- etapes: 
-  -Extraire le .zip
-  -créer un folder "files"
-  -placer son .txt
-  -lancer le .py
-  -suivre les instructions
+etapes de Mise en place: 
+  1.Extraire le .zip
+  2.créer un folder "files" là où se situe le script
+  3. placer son .txt dans le dossier files
+  4. lancer le .py
+  5. suivre les instructions de la console
   
   /!\ EN CAS DE PBLM AUX 1ERS ESSAIS OUVRIR AVEC IDLE
   
