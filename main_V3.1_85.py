@@ -2,7 +2,7 @@
 """
 Created on Wed Jan 13 12:43:49 2021
 
-@author: novasup666
+@author: Noé VINCENT
 """
 
 import math as mt
