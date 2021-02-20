@@ -8,11 +8,11 @@ etapes de Mise en place:
   4. lancer le .py
   5. suivre les instructions de la console
   
-  /!\ EN CAS DE PBLM AUX 1ERS ESSAIS OUVRIR AVEC IDLE
+  /!\ EN CAS DE PBLM AUX PREMIERS ESSAIS OUVRIR AVEC IDLE
   
 Petite Histoire du Nom des versions :
 COSBITM = "bonjour" chiffré dans sa premiere version ne comprenant que 26 caractères avec la clée "azertyuiop". Le numéro correspond aux nombre de caractère disponibles.
-               Nom de V   Nom de code de V
+               Nom de Version (bonjour chiffré avec "azertyuiop")
 1ere version : COSBITM26 (cosbitm)
 2eme version : COSBITM58 (cIsèCNG)
 3eme version : COSBITM85 (cJsèDOH)
