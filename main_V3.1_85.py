@@ -115,9 +115,9 @@ print("#### COSBITM 85 ####\n"
       "###  Bienvenue dans votre utilitaire de cryptage et de déchiffrage ###\n\n"
       "##   Pour CHIFFRER un fichier veillez à ce qu'il soit encodé en UTF-8\n"
       "#    et qu'i soit placé dans le dossier suivant:\n"
-      "#                    files/Encrypting/Input/NOMDUFICHIER.txt\n\n"
+      "#                    /files/NOMDUFICHIER.txt\n\n"
       "##   Pour DECRYPTER un fichier chiffré en COSBITM 85 veillez à l'avoir placé a cet endroit:\n"
-      "#                    files/Decrypting/Input/NOMDUFICHIER.txt\n\n"
+      "#                    /files/NOMDUFICHIER.txt\n\n"
       "###  Vous trouverez le fichier resultat dans le dossier 'Output' de l'action choisie\n\n\n")
 
 while choice != 1 and choice != 2:   
